@@ -1,2 +1,2 @@
 # hello
-learn python
+learn wxpython
